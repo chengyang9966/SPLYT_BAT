@@ -21,7 +21,11 @@ For Mac User
 yarn install 
 yarn dev_mac
 ```
-
+## Usage
+1) User need to register an account 
+2) User need to login to an account based on the registered account
+3) navigate to Map Page 
+4) press ok to receive the estimate travel time
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
